@@ -14,6 +14,18 @@ Krasnodar, Russia
 
 ---
 
+
+## Featured Projects
+
+<p align="center">
+  <img src="assets/AI-Switcher.png" width="100%" alt="AI Switcher">
+</p>
+
+<p align="center">
+  <img src="assets/WLK.png" width="100%" alt="WhisperKey WLK">
+</p>
+
+---
 # 🇬🇧 English
 
 ## About Me
@@ -29,7 +41,7 @@ I prefer engineering solutions that are **reliable, understandable, maintainable
 **AI Switcher**  
 Native Windows keyboard layout correction and intelligent text correction system with optional local AI.
 
-**WhisperKey Local**  
+**WhisperKey WLK**  
 Local speech-to-text system based on Whisper with GPU acceleration, custom vocabulary, hotkeys, and portable deployment.
 
 **VisualMind**  
@@ -69,7 +81,7 @@ Automated technology news processing and Telegram publishing workflow.
 **AI Switcher**  
 Нативная Windows-система автоматического исправления раскладки и интеллектуальной коррекции текста с поддержкой локального AI.
 
-**WhisperKey Local**  
+**WhisperKey WLK**  
 Локальная система распознавания речи на базе Whisper с GPU-ускорением, пользовательским словарём, горячими клавишами и portable-развёртыванием.
 
 **VisualMind**  
@@ -101,3 +113,4 @@ AI-система для визуальных и творческих рабоч
 **Krasnodar • Russia**
 
 </div>
+
