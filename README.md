@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# AlexHDman
-
 ### PC Engineer • System Integrator • AI Solutions Developer
 
 **Windows • Hardware • Local AI • RAG • Automation • AI-powered software**
