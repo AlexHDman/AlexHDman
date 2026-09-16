@@ -15,17 +15,6 @@ Krasnodar, Russia
 ---
 
 
-## Featured Projects
-
-<p align="center">
-  <img src="assets/AI-Switcher.png" width="100%" alt="AI Switcher">
-</p>
-
-<p align="center">
-  <img src="assets/WLK.png" width="100%" alt="WhisperKey WLK">
-</p>
-
----
 # 🇬🇧 English
 
 ## About Me
@@ -113,4 +102,5 @@ AI-система для визуальных и творческих рабоч
 **Krasnodar • Russia**
 
 </div>
+
 
